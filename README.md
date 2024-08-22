@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gstuni!
+# 👋 Olá, Sou o Gabriel Stuani!
 
 Bem-vindo ao meu perfil do GitHub.  
 *Nota: Fique à vontade para entrar em contato se tiver alguma dúvida!*
