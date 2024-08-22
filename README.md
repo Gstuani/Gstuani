@@ -1,7 +1,7 @@
 # 👋 Olá, Sou o Gabriel Stuani!
 
 Bem-vindo ao meu perfil do GitHub.  
-*Nota: Fique à vontade para entrar em contato se tiver alguma dúvida!*
+*Nota: Fique à vontade para entrar em contato se tiver alguma dúvida*
 
 ## 💻 O que Eu Sei
 
@@ -42,7 +42,4 @@ Em um futuro próximo, pretendo aprender sobre:
 - **Twitter:** [@Bielstuani](https://x.com/Bielstuani)
 
 ---
-<!---
-Gstuani/Gstuani é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link de Pré-visualização para dar uma olhada nas suas alterações.
---->
+
